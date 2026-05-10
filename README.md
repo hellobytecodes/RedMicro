@@ -42,7 +42,7 @@ And that's it, that was my project. I hope you like it.
 
 But remember this: time is extremely important in this project. Watch yourself and use the time wisely so you don't get hurt.
 
-# You got 10 minutes bro 😭⏰
+# You got 10 minutes bro! 😭⏰
 <p align="center">
   <img src="ScreenShot/screen.png" width="300" alt="RedMicro Screenshot">
 </p>
