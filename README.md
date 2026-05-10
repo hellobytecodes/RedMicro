@@ -42,6 +42,11 @@ And that's it, that was my project. I hope you like it.
 
 But remember this: time is extremely important in this project. Watch yourself and use the time wisely so you don't get hurt.
 
+# You got 10 minutes bro 😭⏰
+<p align="center">
+  <img src="ScreenShot/screen.png" width="300" alt="RedMicro Screenshot">
+</p>
+
 # last word
 This project is for legal purposes only. Any misuse of this project will result in legal and criminal prosecution and is considered a crime. So use it properly.
 
